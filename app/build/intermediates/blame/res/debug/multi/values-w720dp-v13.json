@@ -1,0 +1,74 @@
+[
+    {
+        "outputFile": "/Users/Vaibhav/Desktop/ETA_CS9033Template/AggarwalVaibhav/AggarwalVaibhav/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/Vaibhav/Desktop/ETA_CS9033Template/AggarwalVaibhav/AggarwalVaibhav/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Vaibhav/Desktop/ETA_CS9033Template/AggarwalVaibhav/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/Vaibhav/Desktop/ETA_CS9033Template/AggarwalVaibhav/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Vaibhav/Desktop/ETA_CS9033Template/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "/Users/Vaibhav/Desktop/ETA_CS9033Template/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w720dp/values-w720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            }
+        ]
+    }
+]

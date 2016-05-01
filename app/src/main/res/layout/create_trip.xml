@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="true"
+    tools:context=".controllers.CreateTripActivity"
+    >
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:statusBarColor="@color/primary"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="16dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:background="#2196F3"
+        android:fitsSystemWindows="true"
+        >
+
+        <ImageView android:src="@drawable/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="88dp"
+            android:layout_marginBottom="24dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+
+
+            <EditText android:id="@+id/input_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textCapWords"
+                android:hint="Trip Name"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:textColorHint="#CCCCCC"/>
+
+
+
+
+            <EditText android:id="@+id/input_location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textCapWords"
+                android:hint="Location"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:textColorHint="#CCCCCC"/>
+
+        <EditText android:id="@+id/input_food"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textCapWords"
+            android:hint="Food"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:textColorHint="#CCCCCC"/>
+
+        <Button
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_add_location"
+            android:padding="12dp"
+            android:text="Add Location"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="16dp"
+            android:background="#2196F3" />
+
+
+            <EditText android:id="@+id/input_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="date"
+                android:hint="Date (YYYY-MM-DD)"
+                android:textColor="#FFFFFF"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:textColorHint="#CCCCCC"/>
+
+        <EditText android:id="@+id/input_transport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="Mode of Transport"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:textColorHint="#CCCCCC"/>
+
+            <EditText android:id="@+id/triptime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="time"
+                android:textColorHint="#CCCCCC"
+                android:ems="10"
+                android:hint="Time (HH:MM)"
+                android:textColor="#fbfaf6"
+                android:singleLine="true"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:id="@+id/input_friends"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Friends Name"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="8dp"
+            android:layout_marginRight="10dp"
+            android:textColorHint="#CCCCCC"
+            android:layout_below="@+id/input_time"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_above="@+id/btn_add_people"
+            android:layout_alignRight="@+id/input_time"
+            android:layout_alignEnd="@+id/input_time"
+            android:autoText="false"/>
+
+        <Button
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_add_people"
+            android:padding="12dp"
+            android:text="Add People"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="16dp"
+            android:background="#2196F3" />
+
+
+        <Button
+            android:id="@+id/button_trip_create"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:padding="12dp"
+            android:text="Create Trip"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="16dp"
+            android:background="#2196F3"/>
+
+        <Button
+            android:id="@+id/button_trip_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:text="Cancel Trip"
+            android:textColor="#FFFFFF"
+            android:background="#2196F3"/>
+
+    </LinearLayout>
+</ScrollView>
+</RelativeLayout>
