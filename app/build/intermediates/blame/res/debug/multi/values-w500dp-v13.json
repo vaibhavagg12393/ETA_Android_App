@@ -1,53 +1,5 @@
 [
     {
-        "outputFile": "/Users/Vaibhav/Desktop/ETA_CS9033Template/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 54,
-                    "endOffset": 105
-                },
-                "from": {
-                    "file": "/Users/Vaibhav/Desktop/ETA_CS9033Template/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w500dp/values-w500dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 54,
-                        "endOffset": 344
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/Vaibhav/Desktop/ETA_CS9033Template/AggarwalVaibhav/AggarwalVaibhav/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 54,
-                    "endOffset": 105
-                },
-                "from": {
-                    "file": "/Users/Vaibhav/Desktop/ETA_CS9033Template/AggarwalVaibhav/AggarwalVaibhav/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w500dp/values-w500dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 54,
-                        "endOffset": 344
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/Vaibhav/Desktop/ETA_CS9033Template/AggarwalVaibhav/ETA_CS9033_VaibhavAggarwal/app/build/intermediates/res/merged/debug/values-w500dp-v13/values-w500dp-v13.xml",
         "map": [
             {
